@@ -44,6 +44,7 @@ body {
   margin: 0 auto;
 }
 
+/* ===== modal ===== */
 .backdrop {
   position: fixed;
   top: 0;
@@ -737,8 +738,7 @@ body {
 .footer-join-text {
   width: 100%;
 }
-.footer-label {
-}
+
 .footer-input {
   padding: 15px;
   margin-right: 12px;
@@ -824,11 +824,6 @@ body {
   color: var(--secondary-text-color);
 }
 
-.portfolio-btn {
-  display: flex;
-  /* display: block; */
-  justify-content: center;
-}
 .portfolio-list-btn {
   padding: 6px 22px 6px 22px;
   border-radius: 4px;
